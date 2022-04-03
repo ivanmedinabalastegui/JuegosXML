@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="P1VJuego.xsl"?>
+<!-- <?xml-stylesheet type="text/xsl" href="P2VJuego.xsl"?> -->
+<Ocio>
+	<Videojuegos>
+		<Juego Género="Arcade" Año="2004">
+			<Titulo Compat="PC">Bandits Phoenix Rising</Titulo>
+			<Fabricante>PAN VISION</Fabricante>
+			<Precio Moneda="euros">40</Precio>
+			<Edad>16</Edad>
+			<Comentario>
+                      Estás a punto de entrar en el mundo de Bandits - Phoenix Rising. un mundo de tipos duros que luchan por sobrevivir; bandas motorizadas de bandidos que imponen su ley combatiendo por el combustible...
+                    </Comentario>
+		</Juego>
+		<Juego Género="Acción" Año="2005">
+			<Titulo Compat="PC">Battlefield 2</Titulo>
+			<Disponible Tecno="PS2"/>
+			<Disponible Tecno="GCUBE"/>
+			<Disponible Tecno="XBOX"/>
+			<Fabricante>Digital Illusions</Fabricante>
+			<Tamaño Magnitud="MB">11.8</Tamaño>
+			<Precio Moneda="euros">39</Precio>
+			<Edad>16</Edad>
+			<Comentario>
+                          La continuación de uno de los juegos de acción multijugador más sorprendentes y adictivos de los últimos años, pero esta vez dejando atrás a la Segunda Guerra Mundial y preparándonos para la guerra moderna...
+                    </Comentario>
+		</Juego>
+		<Juego Género="Deportes" Año="2005">
+			<Titulo Compat="GBA">FIFA Football 2005</Titulo>
+			<Fabricante>EA Sports</Fabricante>
+			<Precio Moneda="euros">46.95</Precio>
+			<Edad>3</Edad>
+			<Comentario>
+                          Y por fin llegamos al año en el que supuestamente Electronic Arts nos iba a regalar el mejor FIFA, el juego de fútbol definitivo. Desde el punto de penalti, y con la clásica controversia de por medio, veamos si la pelota entra o termina en una subasta como la de Beckham?
+                    </Comentario>
+		</Juego>
+		<Juego Género="Acción" Año="2005">
+			<Titulo Compat="PC">Lego Star Wars</Titulo>
+			<Disponible Tecno="PS2"/>
+			<Disponible Tecno="GBA"/>
+			<Fabricante>Eidos</Fabricante>
+			<Precio Moneda="euros">22.95</Precio>
+			<Edad>16</Edad>
+			<Comentario>
+Esta alianza conjuga el mundo único y el diseño de los materiales de juego LEGO con los inolvidables personajes, historias y vehículos de los tres primeros episodios del universo Star Wars.                        
+                    </Comentario>
+		</Juego>
+		<Juego Género="Estrategia" Año="2004">
+			<Titulo Compat="PC">IMPERIUM III</Titulo>
+			<Disponible Tecno="PS2"/>
+			<Disponible Tecno="GBA"/>
+			<Fabricante>FX Interactive</Fabricante>
+			<Precio Moneda="euros">19.95</Precio>
+			<Edad>12</Edad>
+			<Comentario>
+Augusto desembarca en egipto tras vencer a marco antonio y clepatra en la batalla naval de Actium. Viriato mantiene en jaque a las legiones en Hispania. Marco Aurelio se enfrenta a los germanos en el Danubio. Julio Cesar sitia al lider galo Vercingetorix en Alesia... Las grandes batallas de Roma estan en tus manos.      
+                    </Comentario>
+		</Juego>
+		<Juego Género="Rol" Año="2004">
+			<Titulo Compat="PC">Piratas del Caribe</Titulo>
+			<Disponible Tecno="PS2"/>
+			<Disponible Tecno="GBA"/>
+			<Fabricante>Betsheda</Fabricante>
+			<Precio Moneda="euros">19.95</Precio>
+			<Edad>12</Edad>
+			<Comentario>
+El Capitán Nathaniel Hawk es testigo de la invasión de una isla inglesa por parte de las tropas francesas. Navegando rápidamente, atraca en una cercana colonia inglesa e informa al Gobernador de las malas noticias. El Gobernador decide que Nathaniel se infiltre en la isla atacada como un espía inglés para descubrir....
+                    </Comentario>
+		</Juego>
+		<Juego Género="Rol" Año="2003">
+			<Titulo Compat="PC">HORIZONS: EMPIRE OF ISTARIA</Titulo>
+			<Fabricante>ATARI</Fabricante>
+			<Precio Moneda="euros">19.95</Precio>
+			<Edad>12</Edad>
+			<Comentario>
+Aquí comienza una nueva vida. Adéntrate en la aventura online y únete a una revolucionaria propuesta de la mano de Horizons, Empires os Istaria. No se trata de un juego de rol online a la usanza. Aquí hay que labrarse una vida, no es solamente salir de viaje y matar a toda criatura viviente, aquí se prima la construcción ...
+                    </Comentario>
+		</Juego>
+		<Juego Género="Deportes" Año="2004">
+			<Titulo Compat="PC">Top Spin</Titulo>
+			<Fabricante>ATARI</Fabricante>
+			<Precio Moneda="euros">44.95</Precio>
+			<Edad>3</Edad>
+			<Comentario>
+               Top Spin es un juego de tenis que permite a los jugadores definir su estilo de juego. Los jugadores pueden mejorar con un entrenador sus tiros y pases _maestros_ y jugar en distintas superficies.
+                    </Comentario>
+		</Juego>
+		<Juego Género="Arcade" Año="2003">
+			<Titulo Compat="PC">Duke Nukem Manhattan Project</Titulo>
+			<Fabricante>SUNSTORM INT.</Fabricante>
+			<Precio Moneda="euros">10.90</Precio>
+			<Edad>16</Edad>
+			<Comentario>
+                     Duke Nukem ha vuelto para hacer frente a una nueva amenaza en Manhattan Project. Esta vez tendrá que luchar contra una horda de monstruos mutantes que intentan ocupar la Gran Manzana. 
+                    </Comentario>
+		</Juego>
+	</Videojuegos>
+</Ocio>
